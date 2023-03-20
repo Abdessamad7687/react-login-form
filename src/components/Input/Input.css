@@ -1,0 +1,16 @@
+input{
+    width: 80%;
+    height: 30px;
+    /* padding-top: 50px; */
+    padding: 10px;
+    display: block;
+    margin: auto;
+    border: none;
+    background: transparent;
+    border-bottom: solid 1px black;
+}
+input:focus{
+    border: none;
+    border-bottom: solid 1px black;
+    outline: none;
+}

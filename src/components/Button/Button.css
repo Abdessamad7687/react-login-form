@@ -1,0 +1,16 @@
+button{
+    width: 80%;
+    height: 50px;
+    border-radius: 20px;
+    background: linear-gradient(to right, skyblue, rgb(168, 135, 235), violet);
+    text-align: center;
+    align-items: center;
+    display: block;
+    margin: 50px auto;
+    color: aliceblue;
+    border: none;
+    text-transform: uppercase;
+}
+button:hover{
+    cursor: pointer;
+}
